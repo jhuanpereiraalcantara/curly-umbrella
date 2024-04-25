@@ -5,7 +5,7 @@
 --verde: #6FFF57;
 --branco: #ffffff;
 --botao-ativo: #3A375E;
---botao-inativo: rgba (58,55,94,0.5);
+--botao-inativo: rgba(58,55,94,0.5);
 --texto-fundo: rgba(58,55,94,0.3);
 
 }
@@ -32,7 +32,7 @@ margin: 0 auto;
  font-size: 32px;
 }
 
-.titulo-principal span{
+.titulo-principal span {
 color: var(--verde);
 
 }
@@ -43,7 +43,7 @@ background-color: var(--botao-inativo);
 color: var(--branco);
 display: flex;
 justify-content: center;
-padding: lem;
+padding: 1em;
 font-size: 18px;
 align-items: center;
 width: 100%;
